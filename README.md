@@ -10,12 +10,12 @@ a 1-5: abcdj
 z 2-4: asfalseiruqwo
 b 3-6: bhhkkbbjjjb
 
-For launching this project locally follow the next instructions:
+To launch this project locally follow the next instructions:
 
 1. Clone repository with `git clone`
 2. Install dependencies with `npm install` or `npm i`
-3. Start project with `npm start`
+3. Start the project with `npm start`
 
 Or you can just use the link below
 
-- [Demo link]()
+- [Demo link](https://nazarin565.github.io/check-password-file/)
